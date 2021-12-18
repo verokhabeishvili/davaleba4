@@ -69,13 +69,17 @@ li {display: inline-block;
 footer {margin-left: 90px;
 		margin-top: 90px;}
 
-		.ricxviclass { background-color: #3D58A6; 
+.articleclass { margin-top: 30px;
+	width: 1238px;
+	display: inline-block; }
+
+.ricxviclass { background-color: #3D58A6; 
 				color: #FFFFFF;
 				width: 56px;
 				height: 56px;
 				font-size: 56px;
 				margin-left: 30px;
-			font-family: 'BPG Nino Mtavruli'}
+				font-family: 'BPG Nino Mtavruli'}
 
 .tveclass { margin-top: 6px;
 	 font-size: 22px;
@@ -83,7 +87,7 @@ footer {margin-left: 90px;
     margin-bottom: 12px;
 font-family: 'BPG Nino Mtavruli'}
 
- .hclass  {margin: 23px 0;
+.articleheadline {margin: 23px 0;
  	padding-left: 30px;
     font-size: 20;
     color: #000000;
@@ -92,15 +96,14 @@ font-family: 'BPG Nino Mtavruli'}
 
  .articleimage {width: 270px;
  				height: 210px;
- 					padding-left: 30px}
-
-.sakontaqtoinfo {  margin-top: 100px;
-			text-align: center;
-						line-height: normal;} 
+ 				padding-left: 30px}
 
 
-.textclass { margin: 36px ;
-    		width: 1124px;
-    		font-size: 16px;
-    		margin-left: 30px;
-    		font-family: 'BPG Ingiri Arial';}
+.articletext { line-height: 19.2px;
+		margin-left: 30px; 
+		vertical-align: top;
+		display: inline-block;
+		width: 930px;}
+
+	.footerclass {margin-left: 20px;}
+ 
