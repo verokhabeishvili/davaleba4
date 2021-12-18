@@ -1,0 +1,70 @@
+
+
+header {display: inline-block;
+		margin-top: 30px;}
+
+.logo {margin-left: 30px;
+		vertical-align: middle;
+		display: inline-block;}
+
+
+.active { color: #EE4036  ;}
+
+.navigationclass { display: inline-block; 
+		vertical-align: middle;
+		line-height: 28px;
+		font-family: 'BPG Nino Mtavruli';
+		font-size: 22px;
+		color: #3D58A6; 
+	 	font-weight: bolder;}
+
+ 
+li {display: inline-block;
+	margin-left: 30px;}
+.htmlinscription { height:460px 
+				width: 1170px;
+				padding-top: 70px;
+				padding-left: 90px;}
+
+.headlineclass {display: inline-block;
+				width: 200px; }
+
+.headline1  { font-family: 'Roboto';
+			font-size: 24px;
+	margin-top: 118px;
+	margin-left: 90px;}
+
+.div1 { width: 570px;
+	height: 225px;
+	background-color: #F2F2F2;
+	display: inline-block;
+	padding: 25px;
+	margin-top: 30px;
+	vertical-align: middle;
+	margin-left: 90px;
+	font-family: 'Roboto';}
+
+.headline2 { font-size: 22px;
+			color:  #3D58A6;
+			margin-bottom:  20px;}
+
+.divimage  {display: inline-block;}
+
+
+.divtext {font-family: 'Roboto';
+	line-height: 24px;
+	display: inline-block;
+	width: 353.49px;
+	height: 156.78px;
+	vertical-align: top;
+	font-size: 20px;
+	}
+.line {width: 1px;
+	height: 26.67px;
+	background-color: #363E97;
+	display: inline-block;
+	margin-right: 30px;
+	margin-left: 30px;}
+
+footer {margin-left: 90px;
+		margin-top: 90px;}
